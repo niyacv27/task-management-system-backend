@@ -1,0 +1,149 @@
+{
+  "users": [
+    {
+      "name": "Niya",
+      "email": "niyacv13@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Mary",
+      "email": "mary@gmail.com",
+      "password": "222222",
+      "id": 2
+    },
+    {
+      "name": "Priya",
+      "email": "priya@gmail.com",
+      "password": "555555",
+      "id": 3
+    },
+    {
+      "name": "Miya",
+      "email": "miya@gmail.com",
+      "password": "999999",
+      "id": 4
+    },
+    {
+      "name": "shann",
+      "email": "shan@gmail.com",
+      "password": "333333",
+      "id": 5
+    },
+    {
+      "name": "Viju",
+      "email": "viju@gmail.com",
+      "password": "555555",
+      "id": 6
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Complete Mini Project",
+      "description": "Complete the React Task Management System.",
+      "priority": "High",
+      "status": "Completed",
+      "deadline": "2026-10-07",
+      "category": "Work",
+      "assignedPerson": "Niya",
+      "id": 1
+    },
+    {
+      "title": "project high",
+      "description": "svd ",
+      "priority": "Low",
+      "status": "In Progress",
+      "deadline": "2026-10-16",
+      "category": "College",
+      "assignedPerson": "vs ",
+      "id": 3
+    },
+    {
+      "title": "fdeb",
+      "description": "nbfgn",
+      "priority": "Low",
+      "status": "Pending",
+      "deadline": "2026-10-29",
+      "category": "College",
+      "assignedPerson": "csdc",
+      "id": 5
+    },
+    {
+      "title": "mini project",
+      "description": " sd ss fbdfb",
+      "priority": "High",
+      "status": "In Progress",
+      "deadline": "2026-10-22",
+      "category": "College",
+      "assignedPerson": "sd",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "dashboard",
+      "description": " s  s c sdc",
+      "priority": "Medium",
+      "status": "Completed",
+      "deadline": "2026-10-22",
+      "category": "College",
+      "assignedPerson": "  sdcsdc ",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "title": "to do list",
+      "description": " s sdd",
+      "priority": "Low",
+      "status": "Pending",
+      "deadline": "2026-10-22",
+      "category": "Work",
+      "assignedPerson": "csdcs",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "title": "redux",
+      "description": "sdd",
+      "priority": "Medium",
+      "status": "Completed",
+      "deadline": "2026-10-24",
+      "category": "Personal",
+      "assignedPerson": "sdc",
+      "userId": 3,
+      "id": 9
+    },
+    {
+      "title": "fdb f",
+      "description": "bdfb ",
+      "priority": "Medium",
+      "status": "Pending",
+      "deadline": "2026-10-23",
+      "category": "Work",
+      "assignedPerson": "fbdb",
+      "userId": 4,
+      "id": 10
+    },
+    {
+      "title": "create frontedn",
+      "description": "sddss",
+      "priority": "Medium",
+      "status": "In Progress",
+      "deadline": "2026-11-18",
+      "category": "Personal",
+      "assignedPerson": "mary",
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "title": "STUDY REDUX",
+      "description": "studt redux is important",
+      "priority": "Medium",
+      "status": "In Progress",
+      "deadline": "2026-10-30",
+      "category": "Personal",
+      "assignedPerson": "Viju",
+      "userId": 6,
+      "id": 12
+    }
+  ]
+}
